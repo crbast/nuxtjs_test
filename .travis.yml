@@ -9,5 +9,4 @@ before_script:
   - cd /app
   - yarn
 script:
-  - cd /app
   - yarn test
